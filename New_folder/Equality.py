@@ -9,6 +9,9 @@ print("sai"=="kumar")
 print(10=="sai")
 print(10==20==30==40)
 
+import module as m
+print(m.x,'llllllll')
+
 #Logical operators
 print("----------------------------------")
 print(True and True)
